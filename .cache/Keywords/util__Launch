@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "BA809BFAEC61700E16CDD48D1E46F42E",
+  "keywordClasses": [
+    {
+      "name": "util.Launch",
+      "keywordMethods": [
+        {
+          "name": "test",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

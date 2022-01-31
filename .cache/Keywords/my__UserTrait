@@ -1,0 +1,14 @@
+{
+  "keywordFileContentHash": "0A7D1D88B23404195C90BBB4B060A84F",
+  "keywordClasses": [
+    {
+      "name": "my.UserTrait",
+      "keywordMethods": []
+    },
+    {
+      "name": "my.UserTrait$Trait$Helper",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
