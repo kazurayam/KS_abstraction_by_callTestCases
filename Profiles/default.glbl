@@ -6,7 +6,7 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>''</initValue>
-      <name>url</name>
+      <initValue>[('username') : 'John Doe']</initValue>
+      <name>CONTAINER</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

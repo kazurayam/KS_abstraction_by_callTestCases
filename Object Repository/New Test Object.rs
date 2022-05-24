@@ -7,18 +7,17 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>You can write what ever string here</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
       <entry>
          <key>BASIC</key>
          <value>#foo</value>
       </entry>
-      <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,5 +25,6 @@
       <name>css</name>
       <type>Main</type>
       <value>#foo</value>
+      <webElementGuid>c5143e01-d605-405c-be95-34ff32ae43a1</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
