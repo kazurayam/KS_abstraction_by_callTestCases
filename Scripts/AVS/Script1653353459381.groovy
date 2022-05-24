@@ -1,21 +1,22 @@
+// https://www.baeldung.com/java-download-file
+
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import com.kms.katalon.core.testobject.HttpBodyContent
 import com.kms.katalon.core.testobject.ResponseObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 
-ResponseObject response = WS.sendRequest(findTestObject("CURA_header_image"))
-HttpBodyContent httpBodyContent = response.getBodyContent()
-InputStream inputStream = httpBodyContent.getInputStream()
+String FILE_URL = "http://localhost:80/sample.docx"
+URL url = new URL(FILE_URL)
+InputStream inputStream = url.openStream()
 
-File outJpeg = new File("./header.jpeg");
-OutputStream outputStream = new FileOutputStream(outJpeg)
+File outFile = new File("./downloaded.docx");
+OutputStream outputStream = new FileOutputStream(outFile)
 copy(inputStream, outputStream)
-assert outJpeg.exists()
-assert outJpeg.length() > 0
+outputStream.flush()
+outputStream.close()
 
-String html = """<html><body><img src="./header.jpeg" alt="header"></body></html>"""
-File outHtml = new File("header.html")
-copy(new StringReader)
+assert outFile.exists()
+assert outFile.length() > 0
 
 void copy(InputStream source, OutputStream target) throws IOException {
 	byte[] buf = new byte[8192];
