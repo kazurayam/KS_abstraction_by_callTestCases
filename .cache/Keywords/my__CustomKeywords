@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "FD83C18EC18F844A540DB5EE23EC091D",
+  "keywordClasses": [
+    {
+      "name": "my.CustomKeywords",
+      "keywordMethods": [
+        {
+          "name": "nextRandomInt",
+          "parameters": [
+            {
+              "name": "bound",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "5CFC8EE173310362B50F53E78C60BB54",
+  "keywordFileContentHash": "ADE914AD0A3DA48C3E6245132D9392C2",
   "keywordClasses": [
     {
       "name": "my.PracticeProfile",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }

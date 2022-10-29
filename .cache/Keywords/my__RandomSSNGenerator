@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "BA325D2836F9C14E9B04DE20CCA2D95E",
+  "keywordClasses": [
+    {
+      "name": "my.RandomSSNGenerator",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

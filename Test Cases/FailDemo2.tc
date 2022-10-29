@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Discount</name>
+   <name>FailDemo2</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>8580f347-919b-45ef-9941-f337ef248354</testCaseGuid>
+   <testCaseGuid>95897460-55a2-43b9-8bdf-3740145f5cd6</testCaseGuid>
 </TestCaseEntity>

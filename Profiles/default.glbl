@@ -9,4 +9,9 @@
       <initValue>[('username') : 'John Doe']</initValue>
       <name>CONTAINER</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>DecodedUrl</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
