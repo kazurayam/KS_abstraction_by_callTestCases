@@ -1,0 +1,16 @@
+java.lang.NoSuchMethodError:
+com.google.common.collect.ImmutableMap.of(
+  Ljava/lang/Object;
+  Ljava/lang/Object;
+  Ljava/lang/Object;
+  Ljava/lang/Object;
+  Ljava/lang/Object;
+  Ljava/lang/Object;
+  Ljava/lang/Object;
+  Ljava/lang/Object;
+  Ljava/lang/Object;
+  Ljava/lang/Object;
+  Ljava/lang/Object;
+  Ljava/lang/Object;
+  )
+  Lcom/google/common/collect/ImmutableMap;

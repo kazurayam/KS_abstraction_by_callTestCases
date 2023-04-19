@@ -6,12 +6,17 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>[('username') : 'John Doe']</initValue>
-      <name>CONTAINER</name>
+      <initValue>'fooValue'</initValue>
+      <name>foo</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>''</initValue>
-      <name>DecodedUrl</name>
+      <initValue>[('k1a') : 'k1aValue', ('k1b') : 'k1bValue']</initValue>
+      <name>map1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[('k2a') : GlobalVariable.map1, ('k2b') : GlobalVariable.foo]</initValue>
+      <name>map2</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
