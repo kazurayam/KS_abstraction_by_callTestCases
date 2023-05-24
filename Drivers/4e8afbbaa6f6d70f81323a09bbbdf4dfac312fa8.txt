@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Unable to diff binary files</title>
+</head>
+<body>
+<header></header>
+<main>
+    <h1>Unable to diff binary files</h1>
+    <p>left: {&quot;jobName&quot;:&quot;NISA_Chronos&quot;,&quot;jobTimestamp&quot;:&quot;20220307_100608&quot;,&quot;id&quot;:&quot;857900d90ec3c9c969b2c971bed1d1da30fc9447&quot;,&quot;fileType&quot;:&quot;xlsx&quot;,&quot;metadata&quot;:{&quot;seq&quot;:{&quot;key&quot;:&quot;seq&quot;,&quot;value&quot;:&quot;1&quot;,&quot;matchedByAster&quot;:true}, &quot;URL.host&quot;:{&quot;key&quot;:&quot;URL.host&quot;,&quot;value&quot;:&quot;www.fsa.go.jp&quot;,&quot;matchedByAster&quot;:true}, &quot;URL.path&quot;:{&quot;key&quot;:&quot;URL.path&quot;,&quot;value&quot;:&quot;/policy/nisa/20170614-2/23.xlsx&quot;,&quot;matchedByAster&quot;:true}, &quot;URL.port&quot;:{&quot;key&quot;:&quot;URL.port&quot;,&quot;value&quot;:&quot;80&quot;,&quot;matchedByAster&quot;:true}, &quot;URL.protocol&quot;:{&quot;key&quot;:&quot;URL.protocol&quot;,&quot;value&quot;:&quot;https&quot;,&quot;matchedByAster&quot;:true}},&quot;identification&quot;:&quot;{\&quot;seq\&quot;:\&quot;1\&quot;, \&quot;URL.host\&quot;:\&quot;www.fsa.go.jp\&quot;, \&quot;URL.path\&quot;:\&quot;/policy/nisa/20170614-2/23.xlsx\&quot;, \&quot;URL.port\&quot;:\&quot;80\&quot;, \&quot;URL.protocol\&quot;:\&quot;https\&quot;}&quot;,&quot;relativeUrl&quot;:&quot;NISA_Chronos/20220307_100608/objects/857900d90ec3c9c969b2c971bed1d1da30fc9447.xlsx&quot;,&quot;diffability&quot;:&quot;UNABLE&quot;}</p>
+    <p>right: {&quot;jobName&quot;:&quot;NISA_Chronos&quot;,&quot;jobTimestamp&quot;:&quot;20230506_112544&quot;,&quot;id&quot;:&quot;cd1befebe8336e3837aeffd2856220a4e7b7e4ab&quot;,&quot;fileType&quot;:&quot;xlsx&quot;,&quot;metadata&quot;:{&quot;seq&quot;:{&quot;key&quot;:&quot;seq&quot;,&quot;value&quot;:&quot;1&quot;,&quot;matchedByAster&quot;:true}, &quot;URL.host&quot;:{&quot;key&quot;:&quot;URL.host&quot;,&quot;value&quot;:&quot;www.fsa.go.jp&quot;,&quot;matchedByAster&quot;:true}, &quot;URL.path&quot;:{&quot;key&quot;:&quot;URL.path&quot;,&quot;value&quot;:&quot;/policy/nisa/20170614-2/23.xlsx&quot;,&quot;matchedByAster&quot;:true}, &quot;URL.port&quot;:{&quot;key&quot;:&quot;URL.port&quot;,&quot;value&quot;:&quot;80&quot;,&quot;matchedByAster&quot;:true}, &quot;URL.protocol&quot;:{&quot;key&quot;:&quot;URL.protocol&quot;,&quot;value&quot;:&quot;https&quot;,&quot;matchedByAster&quot;:true}},&quot;identification&quot;:&quot;{\&quot;seq\&quot;:\&quot;1\&quot;, \&quot;URL.host\&quot;:\&quot;www.fsa.go.jp\&quot;, \&quot;URL.path\&quot;:\&quot;/policy/nisa/20170614-2/23.xlsx\&quot;, \&quot;URL.port\&quot;:\&quot;80\&quot;, \&quot;URL.protocol\&quot;:\&quot;https\&quot;}&quot;,&quot;metadataURL&quot;:&quot;https://www.fsa.go.jp/policy/nisa/20170614-2/23.xlsx&quot;,&quot;relativeUrl&quot;:&quot;NISA_Chronos/20230506_112544/objects/cd1befebe8336e3837aeffd2856220a4e7b7e4ab.xlsx&quot;,&quot;diffability&quot;:&quot;UNABLE&quot;}</p>
+</main>
+<footer></footer>
+</body>
+</html>
